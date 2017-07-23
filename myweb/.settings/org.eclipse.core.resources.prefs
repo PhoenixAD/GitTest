@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//bots/init.py=utf-8
+encoding//bots/scrapybots/init.py=utf-8
+encoding//bots/scrapybots/scrapybots/items.py=utf-8
+encoding//bots/scrapybots/scrapybots/pipelines.py=utf-8
+encoding//bots/scrapybots/scrapybots/settings.py=utf-8
+encoding//bots/scrapybots/scrapybots/spiders/test_spider.py=utf-8
+encoding//myscrapy/__init__.py=utf-8
+encoding//myscrapy/migrations/0001_initial.py=utf-8
+encoding//myscrapy/migrations/0002_testscrapy.py=utf-8
+encoding//myscrapy/models.py=utf-8
+encoding//myweb/settings.py=utf-8
+encoding//sysinfo/__init__.py=utf-8
+encoding//sysinfo/function/forms.py=utf-8
+encoding//sysinfo/models.py=utf-8
+encoding//sysinfo/views.py=utf-8
